@@ -1,0 +1,1 @@
+return { 'phfpx/fugitive.nvim' }
